@@ -1,0 +1,14 @@
+.FAQClass{
+    padding: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    padding: 2%;
+    border-radius: 8px;
+}
+
+.FAQLogo{
+    width: 30%;
+}
